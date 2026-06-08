@@ -16,6 +16,7 @@
 - **Aguardando Solicitante**: Ocorrência que depende de retorno do Solicitante para continuar.
 - **Solicitação de Encerramento**: Pedido feito pelo Solicitante para que a Equipe de TI avalie o encerramento de uma Ocorrência de Infraestrutura. A Equipe de TI pode negar a solicitação e manter a ocorrência ativa.
 - **Decisão Final de Encerramento**: Decisão de encerrar ou não uma Ocorrência de Infraestrutura após uma Solicitação de Encerramento. Só pode ser tomada pela Equipe de TI.
+- **Retorno para Em Atendimento**: Resultado da negativa da Solicitação de Encerramento pela Equipe de TI. A Ocorrência de Infraestrutura volta para o status Em Atendimento.
 - **Encerrada**: Ocorrência finalizada pela Equipe de TI.
 - **Motivo de Encerramento**: Justificativa registrada quando uma Ocorrência de Infraestrutura é encerrada.
 - **Ocorrência Principal**: Ocorrência de Infraestrutura escolhida como registro de referência quando existem ocorrências duplicadas.
