@@ -20,6 +20,8 @@
 - **Decisão Final de Encerramento**: Decisão de encerrar ou não uma Ocorrência de Infraestrutura após uma Solicitação de Encerramento. Só pode ser tomada pela Equipe de TI.
 - **Retorno para Em Atendimento**: Resultado da negativa da Solicitação de Encerramento pela Equipe de TI. A Ocorrência de Infraestrutura volta para o status Em Atendimento.
 - **Encerrada**: Ocorrência finalizada pela Equipe de TI.
+- **Não Reabertura de Ocorrência Encerrada**: Regra em que uma Ocorrência de Infraestrutura no status Encerrada não pode voltar para status ativo.
+- **Nova Ocorrência após Encerramento**: Regra que exige abertura de uma nova Ocorrência de Infraestrutura quando surge nova demanda após o Encerramento.
 - **Motivo de Encerramento**: Justificativa registrada quando uma Ocorrência de Infraestrutura é encerrada.
 - **Ocorrência Principal**: Ocorrência de Infraestrutura escolhida como registro de referência quando existem ocorrências duplicadas.
 - **Referência da Ocorrência Principal**: Identificação da Ocorrência Principal exibida ao Solicitante da ocorrência encerrada como Duplicata.
