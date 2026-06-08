@@ -23,6 +23,7 @@
 - **Não Reabertura de Ocorrência Encerrada**: Regra em que uma Ocorrência de Infraestrutura no status Encerrada não pode voltar para status ativo.
 - **Nova Ocorrência após Encerramento**: Regra que exige abertura de uma nova Ocorrência de Infraestrutura quando surge nova demanda após o Encerramento.
 - **Referência de Ocorrência Encerrada**: Vínculo da nova Ocorrência de Infraestrutura com a ocorrência anterior no status Encerrada.
+- **Referência Imediata de Ocorrência Encerrada**: Regra em que a nova Ocorrência de Infraestrutura guarda vínculo apenas com a ocorrência encerrada imediatamente anterior, sem cadeia de referências.
 - **Pré-preenchimento da Nova Ocorrência**: Uso automático de dados básicos da ocorrência encerrada como base para abertura da nova Ocorrência de Infraestrutura.
 - **Campos de Pré-preenchimento da Nova Ocorrência**: Conjunto de dados básicos transferidos automaticamente para a nova Ocorrência de Infraestrutura. Inclui título e localização.
 - **Descrição sob Confirmação Manual**: Regra em que a descrição da nova Ocorrência de Infraestrutura não é herdada automaticamente e deve ser confirmada ou editada manualmente pelo Solicitante.
