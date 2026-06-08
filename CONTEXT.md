@@ -14,6 +14,7 @@
 - **Aberta**: Ocorrência criada e ainda sem atendimento.
 - **Em Atendimento**: Ocorrência assumida pela Equipe de TI.
 - **Aguardando Solicitante**: Ocorrência que depende de retorno do Solicitante para continuar.
+- **Definição de Aguardando Solicitante**: Ato de colocar uma Ocorrência de Infraestrutura no status Aguardando Solicitante. Só pode ser executado pela Equipe de TI.
 - **Solicitação de Encerramento**: Pedido feito pelo Solicitante para que a Equipe de TI avalie o encerramento de uma Ocorrência de Infraestrutura. A Equipe de TI pode negar a solicitação e manter a ocorrência ativa.
 - **Decisão Final de Encerramento**: Decisão de encerrar ou não uma Ocorrência de Infraestrutura após uma Solicitação de Encerramento. Só pode ser tomada pela Equipe de TI.
 - **Retorno para Em Atendimento**: Resultado da negativa da Solicitação de Encerramento pela Equipe de TI. A Ocorrência de Infraestrutura volta para o status Em Atendimento.
