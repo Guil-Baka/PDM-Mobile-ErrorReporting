@@ -14,5 +14,6 @@
 - **Aguardando Solicitante**: Ocorrência que depende de retorno do Solicitante para continuar.
 - **Solicitação de Encerramento**: Pedido feito pelo Solicitante para que a Equipe de TI avalie o encerramento de uma Ocorrência de Infraestrutura. A Equipe de TI pode negar a solicitação e manter a ocorrência ativa.
 - **Encerrada**: Ocorrência finalizada pela Equipe de TI.
-- **Duplicata**: Ocorrência encerrada por representar o mesmo problema já registrado em outra ocorrência principal.
+- **Motivo de Encerramento**: Justificativa registrada quando uma Ocorrência de Infraestrutura é encerrada.
+- **Duplicata**: Valor de Motivo de Encerramento usado quando a ocorrência representa o mesmo problema já registrado em outra ocorrência principal.
 - **Encerramento**: Ato de finalizar uma Ocorrência de Infraestrutura. Só pode ser executado pela Equipe de TI.
