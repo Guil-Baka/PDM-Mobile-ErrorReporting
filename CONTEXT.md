@@ -17,5 +17,6 @@
 - **Motivo de Encerramento**: Justificativa registrada quando uma Ocorrência de Infraestrutura é encerrada.
 - **Ocorrência Principal**: Ocorrência de Infraestrutura escolhida como registro de referência quando existem ocorrências duplicadas.
 - **Referência da Ocorrência Principal**: Identificação da Ocorrência Principal exibida ao Solicitante da ocorrência encerrada como Duplicata.
+- **Visão da Ocorrência Principal para Duplicata**: Conjunto de informações da Ocorrência Principal visível ao Solicitante da ocorrência encerrada como Duplicata. Exibe apenas resumo e status.
 - **Duplicata**: Valor de Motivo de Encerramento usado quando a ocorrência representa o mesmo problema já registrado em outra ocorrência principal.
 - **Encerramento**: Ato de finalizar uma Ocorrência de Infraestrutura. Só pode ser executado pela Equipe de TI.
