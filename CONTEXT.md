@@ -5,6 +5,8 @@
 - **Ocorrência de Infraestrutura**: Registro formal de um problema relacionado à infraestrutura da faculdade.
 - **Solicitante**: Pessoa que abre uma Ocorrência de Infraestrutura. Pode ser Aluno, Professor ou integrante da Equipe de TI.
 - **Equipe de TI**: Grupo responsável por analisar, atualizar e encerrar Ocorrências de Infraestrutura.
+- **Abertura da Ocorrência**: Ato de registrar uma nova Ocorrência de Infraestrutura. Pode ser executado por Aluno, Professor ou integrante da Equipe de TI.
+- **Ações de Gestão da Ocorrência**: Conjunto de ações de análise, atualização e encerramento de uma Ocorrência de Infraestrutura. Só pode ser executado pela Equipe de TI.
 - **Status da Ocorrência**: Estado atual de uma Ocorrência de Infraestrutura. Valores canônicos: Aberta, Em Atendimento, Aguardando Solicitante, Solicitação de Encerramento e Encerrada.
 - **Escopo de Localização**: Nível de precisão do local associado à Ocorrência de Infraestrutura. Valores canônicos: Específica e Geral.
 - **Específica**: Escopo de Localização em que a ocorrência aponta um local detalhado.
