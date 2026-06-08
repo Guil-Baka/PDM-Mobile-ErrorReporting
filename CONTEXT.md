@@ -24,6 +24,8 @@
 - **Nova Ocorrência após Encerramento**: Regra que exige abertura de uma nova Ocorrência de Infraestrutura quando surge nova demanda após o Encerramento.
 - **Referência de Ocorrência Encerrada**: Vínculo da nova Ocorrência de Infraestrutura com a ocorrência anterior no status Encerrada.
 - **Pré-preenchimento da Nova Ocorrência**: Uso automático de dados básicos da ocorrência encerrada como base para abertura da nova Ocorrência de Infraestrutura.
+- **Campos de Pré-preenchimento da Nova Ocorrência**: Conjunto de dados básicos transferidos automaticamente para a nova Ocorrência de Infraestrutura. Inclui título e localização.
+- **Descrição sob Confirmação Manual**: Regra em que a descrição da nova Ocorrência de Infraestrutura não é herdada automaticamente e deve ser confirmada ou editada manualmente pelo Solicitante.
 - **Motivo de Encerramento**: Justificativa registrada quando uma Ocorrência de Infraestrutura é encerrada.
 - **Ocorrência Principal**: Ocorrência de Infraestrutura escolhida como registro de referência quando existem ocorrências duplicadas.
 - **Referência da Ocorrência Principal**: Identificação da Ocorrência Principal exibida ao Solicitante da ocorrência encerrada como Duplicata.
